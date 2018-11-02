@@ -11,7 +11,7 @@ Mountian Biking clone of [SkiFree](https://en.wikipedia.org/wiki/SkiFree) by [Ch
 * BIGFEET! They even eat you and then run away because they're full
 * Distance tracking so you can see how far you've gone, you absolute badass
 * Speed boost (this was a little-known feature to get away from bigfeet) using the F key
-* **MOBILE SUPPORT** - This is cool - try loading the [**the demo page**](http://basicallydan.github.com/skifree.js) on a mobile device and then use your finger to direct the skier around the piste. Also try double-tap ;)
+* **MOBILE SUPPORT**  Try loading the on a mobile device and then use your finger to direct the skier around the piste. Also try double-tap ;)
 * Rainbow jump platforms & jumping - though a couple of improvements could be made
 * LocalStorage high-score (thanks, [@ddoolin](https://github.com/ddoolin)!)
 * Custom-sized Hitboxes
